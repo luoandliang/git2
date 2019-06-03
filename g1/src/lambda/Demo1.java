@@ -86,4 +86,8 @@ public class Demo1 {
     public void test9 () {
         System.out.println("hfsfsafa");
     }
+    @Test
+    public void test10 () {
+        System.out.println("faef");
+    }
 }
