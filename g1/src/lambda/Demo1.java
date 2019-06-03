@@ -81,4 +81,9 @@ public class Demo1 {
         return result;
     }
 
+
+    @Test
+    public void test9 () {
+        System.out.println("hfsfsafa");
+    }
 }
